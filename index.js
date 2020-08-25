@@ -57,7 +57,7 @@ inquirer
   .prompt(questions)
   .then(answers => {
     console.log(answers)
-    fs.writeFile("newReadMe.md", generateMarkdown(answers), err => {
+    fs.writeFile(`${answers.title}.md`, generateMarkdown(answers), err => {
       if (err) throw err;
       console.log('The file has been saved!');
     })
