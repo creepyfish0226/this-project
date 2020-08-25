@@ -1,9 +1,10 @@
-# asdf
+# This
 
-![GPL 3.0 badge](https://img.shields.io/badge/License-GPL%203.0-blueviolet)  
+![None badge](https://img.shields.io/badge/License-None-blueviolet)  
 
 
 ## Table of Contents
+
 [Description](#Description)  
 [Installation](#Installation)  
 [Usage](#Usage)  
@@ -15,30 +16,30 @@
 
 ## Description
 
-asdf
+README Generator
 
 ### Installation
 
-asdf
+npm i
 
 ### Usage
 
-
+not much
 
 ### License
 
-GPL 3.0
+None
 
 ### Contributing
 
-
+Creation
 
 ### Tests
 
-asdf
+Simply
 
 ### Questions
 
 
-If you still have question contact me directly at asdf. You can find out more at [aasdf](https://github.com/aasdf/).
+If you still have question contact me directly at jeremy.gager@aol.com. You can find out more at [Creepyfish0226](https://github.com/Creepyfish0226/).
   

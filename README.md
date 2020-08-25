@@ -1,19 +1,17 @@
-# This Project
-
+# **Good README Generator**
 
 ## Description
 
-## Table of Contents
+This project is a Readme Generator for GitHub projects
 
-### Installation
+## *Terminal Image*
 
-### Usage
+![Terminal](./Assets/screenshot.JPG)
 
-### Liscense
+## *Generated README Image*
 
-### Contributing
+![README](./Assets/Readme.JPG)
 
-### Tests
+## *Deployed site*
 
-### Questions
-
+[This Project](https://creepyfish0226.github.io/this-project/)
