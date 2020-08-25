@@ -1,6 +1,6 @@
-# This
+# this
 
-![None badge](https://img.shields.io/badge/License-None-blueviolet)  
+![APACHE 2.0 badge](https://img.shields.io/badge/License-APACHE%202.0-blueviolet)  
 
 
 ## Table of Contents
@@ -16,7 +16,7 @@
 
 ## Description
 
-README Generator
+Readme generator
 
 ### Installation
 
@@ -28,18 +28,18 @@ not much
 
 ### License
 
-None
+APACHE 2.0
 
 ### Contributing
 
-Creation
+creation
 
 ### Tests
 
-Simply
+simply
 
 ### Questions
 
 
-If you still have question contact me directly at jeremy.gager@aol.com. You can find out more at [Creepyfish0226](https://github.com/Creepyfish0226/).
+If you still have question contact me directly at jeremy.gager@aol.com. You can find out more at [creepyfish0226](https://github.com/creepyfish0226/).
   
